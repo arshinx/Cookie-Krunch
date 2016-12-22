@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 48;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -105,13 +105,12 @@
 				TargetAttributes = {
 					73EF9F6E1E0C2C6B00BE64D4 = {
 						CreatedOnToolsVersion = 8.2;
-						DevelopmentTeam = 29YN3QBTM8;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
 			buildConfigurationList = 73EF9F6A1E0C2C6B00BE64D4 /* Build configuration list for PBXProject "CookieKrunch" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
